@@ -96,13 +96,13 @@ const Testimonials = () => {
 
   return (
     <section 
-      className="py-16 md:py-24 bg-behrani-800 text-white"
+      className="py-10 md:py-14 bg-behrani-800 text-white"
       id="testimonials"
       onMouseEnter={pauseAutoPlay}
       onMouseLeave={resumeAutoPlay}
     >
       <div className="container mx-auto px-4 md:px-6">
-        <div className="text-center max-w-3xl mx-auto mb-16">
+        <div className="text-center max-w-3xl mx-auto mb-10">
           <div className="inline-block px-3 py-1 text-sm bg-white/10 text-white rounded-full mb-4">
             Success Stories
           </div>

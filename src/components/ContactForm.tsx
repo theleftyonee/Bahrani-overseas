@@ -66,7 +66,7 @@ const ContactForm = () => {
   }
 
   return (
-    <section className="py-16 md:py-24 bg-behrani-50" id="contact">
+    <section className="py-10 md:py-14 bg-behrani-50" id="contact">
       <div className="container mx-auto px-4 md:px-6">
         <div className="flex flex-col lg:flex-row gap-12">
           <div className="lg:w-2/5">

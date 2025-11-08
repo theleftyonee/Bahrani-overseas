@@ -100,7 +100,7 @@ const Updates = () => {
   };
 
   return (
-    <section className="py-16 md:py-24 bg-white" id="news">
+    <section className="py-10 md:py-14 bg-white" id="news">
       <div className="container mx-auto px-4 md:px-6">
         <div className="text-center max-w-3xl mx-auto mb-10">
           <div className="inline-block px-3 py-1 text-sm bg-behrani-100 text-behrani-800 rounded-full mb-4">

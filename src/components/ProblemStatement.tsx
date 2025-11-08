@@ -3,7 +3,7 @@ import { CheckCircle, ArrowRight } from "lucide-react";
 
 const ProblemStatement = () => {
   return (
-    <section className="py-16 md:py-24 bg-white" id="problem">
+    <section className="py-10 md:py-14 bg-white" id="problem">
       <div className="container mx-auto px-4 md:px-6">
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 mb-10 md:mb-0 md:pr-10">
